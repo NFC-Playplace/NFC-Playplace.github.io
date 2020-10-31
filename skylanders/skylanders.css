@@ -1,11 +1,9 @@
 body{
   background-color: teal;
 }
-#SA{
+.dp{
   width: 70px;
-}
-#GI{
-  width: 70px;
+  text-align: center;
 }
 .label{
   margin-left: 20px;
