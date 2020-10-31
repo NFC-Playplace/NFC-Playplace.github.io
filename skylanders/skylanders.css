@@ -6,9 +6,6 @@ body{
   text-align: center;
 }
 .label{
-  margin-left: 20px;
-}
-#Title{
-  text-align: center;
-  color: darkred;
+  margin-left: 100px;
+  text-align:center;
 }
