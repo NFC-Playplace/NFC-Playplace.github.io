@@ -12,6 +12,7 @@ body{
   top: 150px;
   background-color: teal;
   border-color: darkred;
+  font-size: 16px;
 }
 #Title{
   text-align: center;
