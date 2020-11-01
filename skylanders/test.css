@@ -1,0 +1,13 @@
+body{
+  background-color: teal;
+}
+#btnd{
+  text-align: center;
+  
+}
+.btn{
+  margin-top: 60px;
+  height: 150px;
+  width: 150px;
+  top: 150px;
+}
