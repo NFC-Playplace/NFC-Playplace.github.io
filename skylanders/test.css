@@ -10,4 +10,6 @@ body{
   height: 150px;
   width: 150px;
   top: 150px;
+  background-color: teal;
+  border-color: darkred;
 }
